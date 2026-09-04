@@ -1,0 +1,14 @@
+{
+  "name": "botrix-site",
+  "version": "1.0.0",
+  "description": "Botrix - berberler, guzellik salonlari ve tirnak studyolari icin WhatsApp otomasyonu tanitim sitesi",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
